@@ -683,8 +683,10 @@ a {
     -o-object-fit: cover;
     object-fit: cover; }
 
+.portfolio-item video,
 .portfolio-item {
   overflow: hidden; }
+  .portfolio-item video,
   .portfolio-item img {
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
